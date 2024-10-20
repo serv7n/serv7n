@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/serv7n/serv7n/output/snake.svg" alt="Snake animation" />
+
 
 ###
