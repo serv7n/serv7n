@@ -8,7 +8,7 @@
     <!-- <img 
       src="https://streak-stats.demolab.com?user=serv7n&theme=dark&hide_border=true"
       height="150" alt="streak graph"  /> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=serv7n&theme=dark&hide_border=true&type=png" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=serv7n&theme=dark&hide_border=true&type=png" alt="GitHub Streak" /></a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serv7n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
